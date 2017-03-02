@@ -1,10 +1,6 @@
-# rxstructure
+# rxStructure
 A command line NPM tool to generate pages and components for create-react-app CLI framework of ReactJS.
 
-
-# Project Title
-
-One Paragraph of project description goes here
 
 ## Getting Started
 
